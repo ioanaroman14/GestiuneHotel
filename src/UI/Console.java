@@ -18,7 +18,7 @@ public class Console {
     private void showMenu() {
         System.out.println("1. Check in");
         System.out.println("2. Check out");
-        System.out.println("3. Medie rating/camera");
+        System.out.println("3. Medie rating camera");
         System.out.println("4. Afisarea raportului/camera");
         System.out.println("x. Iesire program");
     }
